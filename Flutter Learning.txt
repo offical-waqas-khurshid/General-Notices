@@ -1,0 +1,19 @@
+If you want to learn flutter start with:
+Widgets
+Git Basics
+Start building simple apps
+Design Principles
+Networking (APIs) and JSON
+Shared Preferences
+databases (sqflite and sql) or Firebase
+Dart Advanced
+State Management (Bloc GetX providers ..), I recommend you to learn Bloc
+Animations
+Packages & Plugins
+Dev Tools
+CI/CD
+Firebase Analytics
+Manual App Testing
+
+
+And to write a clean code learn about code organisation and architecture (MVVM , BLOC , MVC ...)and research and look into Enums as they allow for a much safer cleaner code.

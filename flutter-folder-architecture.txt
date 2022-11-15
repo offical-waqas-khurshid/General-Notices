@@ -1,0 +1,27 @@
+Flutter Project Architecture:
+
+1)  
+   Folder -> Configurations:
+          In this folder configuration defined
+2) 
+   Folder -> Core:
+          In this folder we defined 
+            -- Folder -> Constant  -> values like class of string
+            -- Folder -> Languages -> languages configration etc
+            -- Folder -> Local -> local data stored like shared preference, sqlite etc
+            -- Folder -> Network -> Api, firebase
+            -- Folder -> Services -> all services declered here 
+            -- Folder -> Data -> In which local data base authication, repositories, user etc
+            -- Folder -> Models -> In which all models classes defined
+            -- Folder -> Widget -> In which all widget defined 
+            -- Folder -> Shared -> In which shared classes defined
+            -- Folder -> utils ->  In which all utilities defined and widgets, color etc
+            -- Folder -> Assets -> In which create folders of -> Images -> Icons -> Gif -> videos
+
+3) 
+   Folder -> Dio:
+           In which different classes defined
+            -- Class -> AuthorizationInterceptor -> interceptor defined
+            -- Class -> DioClient -> defined all networking work
+            -- Class -> DioException -> all Expection defined
+            -- Class -> EndPoint -> path, string, const, etc defined
