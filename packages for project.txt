@@ -21,3 +21,5 @@ Packages: Working for project
   	cloud_firestore: ^4.1.0
 8)  Credit-Card package:
     flutter_credit_card 3.0.4
+9)  Slider_action:(slide to perform anything)
+    action_slider 0.6.1
