@@ -1,0 +1,7 @@
+1) if you show a screen to same screen then use it
+     Navigator.of(context).push(PageRouteBuilder(
+    opaque: false,
+    pageBuilder: (BuildContext context, _, __) =>
+        const RedeemConfirmationScreen()));
+        
+2) 
